@@ -37,5 +37,3 @@ On peut connaître le nombre de neouds visités, la distance parcourut, et le co
    - Morgane : Maping & Input Maping - A* & BFS - AlgoManager - ImGuiManager - Affichage - Graphe & Node
    - Julia : Djikstra & Greedy
 
-       ( branche OptiCode : CSVManager - Edges - Modifications dans le graphe pour lier tous les nodes et les edges)
-
